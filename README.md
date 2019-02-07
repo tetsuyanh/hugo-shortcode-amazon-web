@@ -1,0 +1,1 @@
+# hugo-shortcode-amazon-web
